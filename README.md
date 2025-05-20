@@ -67,5 +67,3 @@ Si tienes planes para continuar este proyecto, puedes mencionarlos aquí:
 ## Autor
 
 * [Juan Lagos](https://github.com/JuanLagosP)
-
-¡Espero que este borrador te sea de gran ayuda para tu proyecto! Puedes adaptarlo y añadir más detalles según lo consideres necesario. Un buen `README.md` es fundamental para que otros entiendan y puedan interactuar con tu trabajo. ¡Mucha suerte con tu proyecto!
