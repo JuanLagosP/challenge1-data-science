@@ -1,7 +1,5 @@
 # Alura Store Latam: Análisis de Datos de Ventas
 
-[![Colab](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JuanLagosP/challenge1-data-science/main)
-
 Este proyecto presenta un análisis exploratorio de datos de ventas de la tienda en línea Alura Store Latam. El objetivo principal es comprender mejor el rendimiento de las ventas, identificar patrones y obtener insights valiosos para la toma de decisiones.
 
 ## Contenido
